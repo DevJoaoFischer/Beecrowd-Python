@@ -9,7 +9,7 @@ Resoluções / solutions
 
 # Iniciantes
 
-[1001](ex1001.py) - [1002](./codes/ex1002.py) - [1003](ex1003.py) - [1004](ex1004.py) - [1005](ex1005.py) 
+[1001](codes/ex1001.py) - [1002](./codes/ex1002.py) - [1003](ex1003.py) - [1004](ex1004.py) - [1005](ex1005.py) 
 
 [1006](ex1006.py) - [1007](ex1007.py) - [1008](ex1008.py) - [1009](ex1009.py) - [1010](ex1010.py) 
 
